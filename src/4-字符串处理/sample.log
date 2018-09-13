@@ -1,0 +1,5 @@
+2016-05-23 10:59:26 status unpacked python3-pip:all
+2016-05-23 10:59:26 status half-configured python3-pip:all
+2016-05-23 10:59:26 status installed python3-pip:all
+2016-05-23 10:59:26 configure python3-wheel:all 0.24.0-1
+
